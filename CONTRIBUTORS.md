@@ -21,10 +21,10 @@ We want to thank all the amazing contributors who have helped make TermUI what i
 | <img src="https://avatars.githubusercontent.com/u/196519254?v=4" width="40" height="40" style="border-radius: 50%;" alt="anshika1179" /> | [@anshika1179](https://github.com/anshika1179) | 14 |
 | <img src="https://avatars.githubusercontent.com/u/177293875?v=4" width="40" height="40" style="border-radius: 50%;" alt="KrutagyaKaneria" /> | [@KrutagyaKaneria](https://github.com/KrutagyaKaneria) | 13 |
 | <img src="https://avatars.githubusercontent.com/u/176702645?v=4" width="40" height="40" style="border-radius: 50%;" alt="RosheshChaware" /> | [@RosheshChaware](https://github.com/RosheshChaware) | 13 |
+| <img src="https://avatars.githubusercontent.com/u/192892137?v=4" width="40" height="40" style="border-radius: 50%;" alt="RitikOnWork" /> | [@RitikOnWork](https://github.com/RitikOnWork) | 13 |
 | <img src="https://avatars.githubusercontent.com/u/166059220?v=4" width="40" height="40" style="border-radius: 50%;" alt="kajalpa302005" /> | [@kajalpa302005](https://github.com/kajalpa302005) | 13 |
-| <img src="https://avatars.githubusercontent.com/u/260001286?v=4" width="40" height="40" style="border-radius: 50%;" alt="ashrion" /> | [@ashrion](https://github.com/ashrion) | 12 |
+| <img src="https://avatars.githubusercontent.com/u/260001286?v=4" width="40" height="40" style="border-radius: 50%;" alt="ashroxy" /> | [@ashroxy](https://github.com/ashroxy) | 12 |
 | <img src="https://avatars.githubusercontent.com/u/149316563?v=4" width="40" height="40" style="border-radius: 50%;" alt="Pranaykarvi" /> | [@Pranaykarvi](https://github.com/Pranaykarvi) | 12 |
-| <img src="https://avatars.githubusercontent.com/u/192892137?v=4" width="40" height="40" style="border-radius: 50%;" alt="RitikOnWork" /> | [@RitikOnWork](https://github.com/RitikOnWork) | 12 |
 | <img src="https://avatars.githubusercontent.com/u/173547900?v=4" width="40" height="40" style="border-radius: 50%;" alt="TanCodeX" /> | [@TanCodeX](https://github.com/TanCodeX) | 12 |
 | <img src="https://avatars.githubusercontent.com/u/177104344?v=4" width="40" height="40" style="border-radius: 50%;" alt="Nikhil-0710" /> | [@Nikhil-0710](https://github.com/Nikhil-0710) | 11 |
 | <img src="https://avatars.githubusercontent.com/u/197649458?v=4" width="40" height="40" style="border-radius: 50%;" alt="Komal2008" /> | [@Komal2008](https://github.com/Komal2008) | 10 |
@@ -74,7 +74,7 @@ We want to thank all the amazing contributors who have helped make TermUI what i
 | <img src="https://avatars.githubusercontent.com/u/191087385?v=4" width="40" height="40" style="border-radius: 50%;" alt="Abhik-Mudi" /> | [@Abhik-Mudi](https://github.com/Abhik-Mudi) | 4 |
 | <img src="https://avatars.githubusercontent.com/u/204044196?v=4" width="40" height="40" style="border-radius: 50%;" alt="Unnati1007" /> | [@Unnati1007](https://github.com/Unnati1007) | 3 |
 | <img src="https://avatars.githubusercontent.com/u/248511551?v=4" width="40" height="40" style="border-radius: 50%;" alt="akshayad2006-cmd" /> | [@akshayad2006-cmd](https://github.com/akshayad2006-cmd) | 3 |
-| <img src="https://avatars.githubusercontent.com/u/130930054?v=4" width="40" height="40" style="border-radius: 50%;" alt="siddiqui7864" /> | [@siddiqui7864](https://github.com/siddiqui7864) | 3 |
+| <img src="https://avatars.githubusercontent.com/u/130930054?v=4" width="40" height="40" style="border-radius: 50%;" alt="sh4dr0x" /> | [@sh4dr0x](https://github.com/sh4dr0x) | 3 |
 | <img src="https://avatars.githubusercontent.com/u/193688804?v=4" width="40" height="40" style="border-radius: 50%;" alt="titax03" /> | [@titax03](https://github.com/titax03) | 3 |
 | <img src="https://avatars.githubusercontent.com/u/219548383?v=4" width="40" height="40" style="border-radius: 50%;" alt="Aspirant200715" /> | [@Aspirant200715](https://github.com/Aspirant200715) | 3 |
 | <img src="https://avatars.githubusercontent.com/u/230755448?v=4" width="40" height="40" style="border-radius: 50%;" alt="riyanshigupta890-cloud" /> | [@riyanshigupta890-cloud](https://github.com/riyanshigupta890-cloud) | 3 |
